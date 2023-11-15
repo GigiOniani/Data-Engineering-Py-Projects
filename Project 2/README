@@ -1,0 +1,5 @@
+Dear reader,
+
+this project reads csv files from specified folder using multiprocessing method. each file reading process is assigned to each processor.
+after reading the file, we have two functions in pipeline. function1 processing is assigned to process1, function2 to process2 respectively.
+
