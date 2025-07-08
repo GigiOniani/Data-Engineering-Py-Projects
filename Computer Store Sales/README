@@ -1,0 +1,9 @@
+
+========================================================================================
+Dear reader,
+this project is created for computer retail store, which sells intel high speed next generation ultra processors.
+project has 2 tables 1)users 2)sell out transactions
+
+this python project generates random data. then pipeline checks file validity and gives detailed information about customer behaviour and transactions
+
+======================================================================================
